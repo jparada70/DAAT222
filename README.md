@@ -1,2 +1,2 @@
 # DAAT222
-Testing repository for HTML/CSS in the DAAT 222 - Web Design Studio class.
+This is a testing repository for the HTML/CSS in the DAAT 222 - Web Design Studio class at the University of the Arts
